@@ -4,7 +4,7 @@
   - RAM 8GB
   - SSD 512 GB
 # 
-* Programos veikimo greičio analizė priklausomai nuo naudojamo vieno iš dvejų konteinerių>
+* Programos veikimo greičio analizė priklausomai nuo naudojamo vieno iš dvejų konteinerių
   - std::vector
   - std::list
 <img width="650" alt="Greicio analize (list) copy" src="https://github.com/user-attachments/assets/1c358429-7695-4f21-8fda-21ad6ed90702"> 
